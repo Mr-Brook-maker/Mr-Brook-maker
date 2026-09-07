@@ -20,10 +20,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Brook-maker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
-</p>
+</p>Trophies" > </p>
+📊 إحصائيات الحساب (GitHub Stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Brook-maker&show_icons=true&theme=tokyonight&hide_border=true" alt="Mr-Brook-maker GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Brook-maker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mr-Brook-maker Top Languages" /> </p>
 🔥 مساهماتي (GitHub Streak)
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Mr-Brook-maker&theme=tokyonight&hide_border=true" alt="GitHub Streak" > </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Mr-Brook-maker&theme=tokyonight&hide_border=true" alt="Mr-Brook-maker GitHub Streak" /> </p>
 🏆 الجوائز التقديرية (GitHub Trophies)
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Brook-maker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" > </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Brook-maker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="Mr-Brook-maker GitHub Trophies" /> </p>
 👀 زوار الملف الشخصي
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mr-Brook-maker&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views" > </p>
