@@ -58,6 +58,9 @@
 </p>
 
 👀 زوار الملف الشخصي
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Mr-Brook-maker&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views" > 
+<p align="center">
+  <a href="https://mr-brook-maker.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mr-Brook-maker&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views">
 </p>
